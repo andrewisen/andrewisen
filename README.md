@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on: [The BIM Whale](https://github.com/andrewisen/bim-whale)
+
 <!--
 **andrewisen/andrewisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
