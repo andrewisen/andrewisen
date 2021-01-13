@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm currently working on:
-- [The BIM Whale](https://github.com/andrewisen/bim-whale) - An IFC paser
+- [The BIM Whale | BIMWHALE.js](https://github.com/andrewisen/bim-whale) - A client-side IFC paser
 - [BIM-valen | www.bimvalen.se](https://bimvalen.se) - A Swedish website with tools for working with IFC files
 <!--
 **andrewisen/andrewisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
