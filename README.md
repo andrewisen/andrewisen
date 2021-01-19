@@ -3,6 +3,7 @@
 I'm currently working on:
 - [The BIM Whale | BIMWHALE.js](https://github.com/andrewisen/bim-whale) - A client-side IFC paser
 - [BIM-valen | www.bimvalen.se](https://bimvalen.se) - A Swedish website with tools for working with IFC files
+- [IFC.js Web Worker Example](https://github.com/andrewisen/IFC.js-web-worker-example) - An IFC Viewer using Web Workers - A fork of IFC.js
 <!--
 **andrewisen/andrewisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
