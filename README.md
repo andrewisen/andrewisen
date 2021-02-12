@@ -12,6 +12,14 @@ People I Like:
 - [Ben Awad](https://github.com/benawad) | [Ben Awad](https://www.youtube.com/benawad97)
 - [Dev Ed](https://github.com/developedbyed) | [DevelopedByEd](https://developedbyed.com)
 
+Repos I Like:
+- [Three.js](https://github.com/mrdoob/three.js)
+- [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)
+- [Awesome Sweden](https://github.com/buren/awesome-sweden)
+- [Wingspan Helper](https://github.com/greengiraffe/wingspan-helper)
+
+Stuff I Like:
+- [RegEx 101](https://regex101.com)
 <!--
 **andrewisen/andrewisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
