@@ -14,6 +14,7 @@ People I Like:
 
 Repos I Like:
 - [Three.js](https://github.com/mrdoob/three.js)
+- [Three.js Fundamentals](https://github.com/gfxfundamentals/threejsfundamentals)
 - [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)
 - [Awesome Sweden](https://github.com/buren/awesome-sweden)
 - [Wingspan Helper](https://github.com/greengiraffe/wingspan-helper)
